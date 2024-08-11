@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/979e32d9-1e42-4b7d-923b-8e3ad2c786fe)# Medical RAG using Qdrant and Gradio
+# Medical RAG using Qdrant and Gradio
 This project implemetns retireival augmented generation to create a medical assistant chatbot with the help of ```Llama3-OpenBioLLM-70B```. The embeddings are stored in Qdrant vector database.  To learn more about the project please refer this [article](link).
 
 ![Alt Text - description of the image](https://github.com/vansh-khaneja/Medical-RAG-using-Qdrant/blob/main/image/img1.png?raw=true)
