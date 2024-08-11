@@ -1,0 +1,6 @@
+langchain_community
+langchain
+qdrant-client
+pypdf
+sentence-transformers
+gradio
