@@ -28,8 +28,8 @@ In this project, we used ```Llama3-OpenBioLLM-70B``` as the langauge model to cr
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/vansh-khaneja/Medical-RAG-using-Qdrant
-    cd Medical-RAG-using-Qdrant
+    git clone https://github.com/vansh-khaneja/Medical-RAG-using-Llama3-OpenBioLLM-70B
+    cd Medical-RAG-using-Llama3-OpenBioLLM-70B
     ```
 
 2. Set up the Python environment and install dependencies:
